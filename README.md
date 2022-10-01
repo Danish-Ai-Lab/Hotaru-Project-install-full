@@ -26,7 +26,9 @@ So this read me includes many info that is not related to actual installation
 - 次に、5V3Aの電源アダプターをつなぎます。
 - type-Cです。これくらいの電圧電流は確保しておきましょう。
 
-# [Ubuntu install](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
+# Ubuntu install
+
+Follow this [Ubuntu install](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
 
 install ubuntu20.04.5 64bit arm64
 
