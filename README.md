@@ -54,3 +54,5 @@ xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubun
 
 If you finish installing ubuntu, next is wifi and ssh setup
 
+Follow the [Link](https://github.com/Danish-Ai-Lab/Hotaru-Project-install-full/blob/main/wifi%20ssh%20setup%20process)
+
