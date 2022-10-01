@@ -50,5 +50,7 @@ Follow the [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
 xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
 [link2](https://kledgeb.blogspot.com/2013/04/ubuntu-2-ubuntukubuntuxubuntulubuntu.html)
 
+## SSH Wifi Setup
+
 If you finish installing ubuntu, next is wifi and ssh setup
 
