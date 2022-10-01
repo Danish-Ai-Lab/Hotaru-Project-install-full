@@ -1,4 +1,8 @@
-wifi setup process
+//wifi のセットアップ//
+//起動してログイン表示されてからからしばらく待つ、2分ぐらい//
+//今回はラズパイ起動後、Vimを使ってネットのセットアップをしたが、公式のようにSDカードに直接書き込める方法もある//
+//起動後はとりあえず sudo apt-get update, sudo apt-get upgradeをする、インサーネットない場合はどうするかわからない、調べること//
+//メモとして、起動後すぐwifiのセットアップをしたが、see apt-secure(8) manpage for repository creation and user configuration detailsというエラー吐かれて再度OSインストールする羽目になった//
 
 ubuntu login: ubuntu
 Password: ubuntu
