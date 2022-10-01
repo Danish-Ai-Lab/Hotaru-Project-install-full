@@ -15,6 +15,8 @@ So this read me includes many info that is not related to actual installation
 
 # First step Raspberry pi setup
 
+## Raspberry pi and other stuff preperation
+
 - For the setup look this look this [link](https://qiita.com/Higemal/items/c817b96c3806f23b35f6) and prepare until 準備２.
   (For Raspberry pi 4　[link](https://raspida.com/rpi-setup2021) )
  
@@ -26,7 +28,7 @@ So this read me includes many info that is not related to actual installation
 - 次に、5V3Aの電源アダプターをつなぎます。
 - type-Cです。これくらいの電圧電流は確保しておきましょう。
 
-# Ubuntu install
+## Ubuntu install
 
 Follow this [Ubuntu install](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
 
@@ -36,7 +38,7 @@ Raspberry Pi Imager is useful
 
 For istallation of desktop → if you don't needed you can skip it
 
-### For Raspberry pi3, it is better to not installing desktop or install xubuntu, lubuntu desktop
+#### For Raspberry pi3, it is better to not installing desktop or install xubuntu, lubuntu desktop
 
 xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
 [link2](https://kledgeb.blogspot.com/2013/04/ubuntu-2-ubuntukubuntuxubuntulubuntu.html)
