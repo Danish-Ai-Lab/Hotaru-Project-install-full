@@ -3,7 +3,7 @@ wifi setup process
 ubuntu login: ubuntu
 Password: ubuntu
 
-//この6~19行をInsert
+//***この6~19行をInsert***
 $ sudo vim /etc/netplan/99-custom.yaml
  network:
     version: 2
