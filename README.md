@@ -16,7 +16,9 @@ So this read me includes many info that is not related to actual installation
 #First step Raspberry pi setup
 
 - For the setup look this look this [link](https://qiita.com/Higemal/items/c817b96c3806f23b35f6) and prepare until 準備２.
-  (For Raspberry pi 4　[link](https://raspida.com/rpi-setup2021) )
+ 
+ (For Raspberry pi 4　[link](https://raspida.com/rpi-setup2021) )
+ 
  {Copy from Hotaru initial Github read me}
 - まずは、Raspberry PiにLANケーブルとHDMIケーブルをつなぎます。
   - Raspberry Piに挿す方はmicro HDMIケーブルです。
