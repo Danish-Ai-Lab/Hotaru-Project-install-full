@@ -27,5 +27,9 @@ So this read me includes many info that is not related to actual installation
 - type-Cです。これくらいの電圧電流は確保しておきましょう。
 
 #[ubuntu install](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
+
 install ubuntu20.04.5 64bit arm64
+
 Raspberry Pi Imager is useful
+
+
