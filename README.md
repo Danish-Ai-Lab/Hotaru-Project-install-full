@@ -43,7 +43,9 @@ If you installed desktop, you can always change GUI(desktop showing) to CUI(term
 
 Follow the [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
 
+When you insert SD card and try to open by raspberry pi, ***do not write the login name and pass word imidately***
 
+You need to wait for 2 min ~
 
 #### For Raspberry pi3, it is better not to install ubuntu desktop or install xubuntu, lubuntu desktop
 
