@@ -58,3 +58,6 @@ If you finish installing ubuntu, next is wifi and ssh setup
 
 Follow the [Link](https://github.com/Danish-Ai-Lab/Hotaru-Project-install-full/blob/main/wifi%20ssh%20setup%20process)
 
+This the [web page](https://maku.blog/p/n9kv7gq/) I liiked for
+
+
