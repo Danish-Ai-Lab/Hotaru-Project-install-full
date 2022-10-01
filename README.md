@@ -38,6 +38,13 @@ Raspberry Pi Imager is useful
 
 For istallation of desktop → if you don't needed you can skip it
 
+If you installed desktop, you can always change GUI(desktop showing) to CUI(terminal only
+) 
+
+Follow the [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
+
+
+
 #### For Raspberry pi3, it is better to not installing desktop or install xubuntu, lubuntu desktop
 
 xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
