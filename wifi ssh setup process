@@ -1,0 +1,43 @@
+wifi setup process
+
+ubuntu login: ubuntu
+Password: ubuntu
+
+//この6~19行をInsert
+$ sudo vim /etc/netplan/99-custom.yaml
+ network:
+    version: 2
+    ethernets:
+        eth0:
+            dhcp4: true
+            optional: true
+    wifis:
+        wlan0:
+            access-points:
+                "自分のSSID":
+                    password: "パスワード"
+//If you type it, you need to take good care of indent（インデント）
+vim はインデント次第でエラーを吐くことが多いのでテキトーにスペースキーとか打たないように
+
+$ sudo netplan apply
+// takes few minutes
+$ sudo apt update
+$ sudo apt upgrade
+
+$ sudo apt install openssh-server
+$ sudo apt install net-tools
+$ sudo systemctl start ssh  # SSHサーバーを起動
+$ ifconfig #shows all your netconection
+If you see wlan0 at the end and found ip adress 192.168.~.~ , you are connected
+
+$ip a
+でラズパイのipアドレスを確認
+
+タフブック上で
+$ ssh ubuntu@192.168.1.??
+そしたらタフブックで作業できる
+
+ROSロボット入門
+p25 設定ファイルの修正
+p26 87uGitHubの設定
+[link](https://rt-net.github.io/tutorials/raspimouse/driver/install.html)
