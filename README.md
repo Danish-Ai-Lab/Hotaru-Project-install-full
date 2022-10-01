@@ -10,10 +10,10 @@ Also would like to mention this is a personal memo
 So this read me includes many info that is not related to actual installation
 
 
-####[for little tip in writing Github](https://style.potepan.com/articles/33682.html)
-####[Little tip for writing Github](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+#### [for little tip in writing Github](https://style.potepan.com/articles/33682.html)
+#### [Little tip for writing Github](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
-#First step Raspberry pi setup
+# First step Raspberry pi setup
 
 - For the setup look this look this [link](https://qiita.com/Higemal/items/c817b96c3806f23b35f6) and prepare until 準備２.
   (For Raspberry pi 4　[link](https://raspida.com/rpi-setup2021) )
@@ -26,10 +26,18 @@ So this read me includes many info that is not related to actual installation
 - 次に、5V3Aの電源アダプターをつなぎます。
 - type-Cです。これくらいの電圧電流は確保しておきましょう。
 
-#[ubuntu install](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
+# [Ubuntu install](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
 
 install ubuntu20.04.5 64bit arm64
 
 Raspberry Pi Imager is useful
+
+For istallation of desktop → if you don't needed you can skip it
+
+### For Raspberry pi3, it is better to not installing desktop or install xubuntu, lubuntu desktop
+
+xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
+[link2](https://kledgeb.blogspot.com/2013/04/ubuntu-2-ubuntukubuntuxubuntulubuntu.html)
+
 
 
