@@ -45,7 +45,7 @@ Follow the [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
 
 
 
-#### For Raspberry pi3, it is better to not installing desktop or install xubuntu, lubuntu desktop
+#### For Raspberry pi3, it is better not to install ubuntu desktop or install xubuntu, lubuntu desktop
 
 xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
 [link2](https://kledgeb.blogspot.com/2013/04/ubuntu-2-ubuntukubuntuxubuntulubuntu.html)
