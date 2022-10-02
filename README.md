@@ -67,4 +67,7 @@ Follow the [Link](https://github.com/Danish-Ai-Lab/Hotaru-Project-install-full/b
 This the [web page](https://maku.blog/p/n9kv7gq/) I looked for
 
 [(Vim tips)](https://qiita.com/hide/items/5bfe5b322872c61a6896)
+
+[(Vim indent error インデント エラー)](https://simpledancer.hatenablog.com/entry/2017/06/04/%E3%82%A4%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BCInconsistent_indentation%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B)
+
 [(tips2)]()
