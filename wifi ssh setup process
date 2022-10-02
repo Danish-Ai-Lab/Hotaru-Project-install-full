@@ -1,47 +1,32 @@
 //wifi のセットアップ//
 //起動してログイン表示されてからからしばらく待つ、2分ぐらい//
 //今回はラズパイ起動後、Vimを使ってネットのセットアップをしたが、公式のようにSDカードに直接書き込める方法もある//
-//起動後はとりあえず sudo apt-get update, sudo apt-get upgradeをする、インサーネットない場合はどうするかわからない、調べること//
-//メモとして、起動後すぐwifiのセットアップをしたが、see apt-secure(8) manpage for repository creation and user configuration detailsというエラー吐かれて再度OSインストールする羽目になった//
+//Vim の使用方法はRead meのリンクにはってある//
 
-ubuntu login: ubuntu
-Password: ubuntu
+$ cd /etc/netplan/
+$ sudo cp 50-cloud-init.yaml 99-cloud-init.yaml
+$ sudo vim 99-cloud-init.yaml
 
-//この6~19行を挿入
-$ sudo vim /etc/netplan/99-custom.yaml
- network:
-    version: 2
-    ethernets:
-        eth0:
-            dhcp4: true
-            optional: true
-    wifis:
-        wlan0:
-            access-points:
-                "自分のSSID":
-                password: "パスワード"
-
-
-//If you type it, you need to take good care of indent（インデント）
 //vim はインデント次第でエラーを吐くことが多いのでテキトーにスペースキーとか打たないように
 
-$ sudo netplan apply　#takes few minutes
+$ sudo netplan apply　#数分かかる
 $ sudo apt update
 $ sudo apt upgrade
+//ちゃんとアップデートされてるかどうか確認
 
 $ sudo apt install openssh-server
 $ sudo apt install net-tools
 $ sudo systemctl start ssh  # SSHサーバーを起動
-$ ifconfig   #shows all your netconection
+$ ifconfig   #ラズパイのネット環境や通信環境をすべて表示してくれる
 
-//If you see wlan0 at the end and found ip adress 192.168.~.~ , you are connected
+//wlan0　が最後の方に表示されており、192.168.~.~ を見つけたらつながっていることになる
 
 $ip a
 でラズパイのipアドレスを確認
 
-//On your PC
+//自分のパソコンターミナル上で
 $ ssh ubuntu@192.168.~.~
-//You can contol your raspberry pi from your PC screen
+//ラズパイを自分のパソコンから操作できる
 
 ROSロボット入門
 p25 設定ファイルの修正
