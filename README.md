@@ -56,6 +56,8 @@ xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubun
 
 Setup supporting web page [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
 
+Small tips for biginner of ubuntu [link](https://qiita.com/karaage0703/items/705f1b750c486f00d554)
+
 ## SSH Wifi Setup
 
 If you finish installing ubuntu, next is wifi and ssh setup
