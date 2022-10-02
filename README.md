@@ -52,6 +52,10 @@ You need to wait for 2 min ~
 xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
 [link2](https://kledgeb.blogspot.com/2013/04/ubuntu-2-ubuntukubuntuxubuntulubuntu.html)
 
+### When you got ubuntu running, prefered to follow and install from this [link](https://qiita.com/karaage0703/items/705f1b750c486f00d554)
+
+Setup supporting web page [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
+
 ## SSH Wifi Setup
 
 If you finish installing ubuntu, next is wifi and ssh setup
@@ -60,6 +64,7 @@ If you finish installing ubuntu, next is wifi and ssh setup
 
 Follow the [Link](https://github.com/Danish-Ai-Lab/Hotaru-Project-install-full/blob/main/wifi%20ssh%20setup%20process)
 
-This the [web page](https://maku.blog/p/n9kv7gq/) I liiked for
+This the [web page](https://maku.blog/p/n9kv7gq/) I looked for
 
-
+[(Vim tips)](https://qiita.com/hide/items/5bfe5b322872c61a6896)
+[(tips2)]()
