@@ -64,9 +64,9 @@ If you finish installing ubuntu, next is wifi and ssh setup
 
 (If you already done at *Ubuntu install*, skip this part and only check ssh)
 
-Follow the [Link](https://bitto.jp/posts/%E6%8A%80%E8%A1%93/raspberry-pi/pi4-setup-wifi/)
+Follow the [Link](https://github.com/Danish-Ai-Lab/Hotaru-Project-install-full/blob/main/wifi%20ssh%20setup%20process)
 
-This the [web page](https://maku.blog/p/n9kv7gq/) I looked for
+This the [web page](https://bitto.jp/posts/%E6%8A%80%E8%A1%93/raspberry-pi/pi4-setup-wifi/) I looked for
 
 [(Vim tips)](https://qiita.com/hide/items/5bfe5b322872c61a6896)
 
