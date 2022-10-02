@@ -52,7 +52,7 @@ You need to wait for 2 min ~
 xubuntu lubuntu desktop detail [link1](https://waldorf.waveform.org.uk/2020/ubuntu-desktops-on-the-pi.html) 
 [link2](https://kledgeb.blogspot.com/2013/04/ubuntu-2-ubuntukubuntuxubuntulubuntu.html)
 
-### When you got ubuntu running, prefered to follow and install from this [link](https://qiita.com/karaage0703/items/705f1b750c486f00d554)
+#### When you got ubuntu running, prefered to follow and install from this [link](https://qiita.com/karaage0703/items/705f1b750c486f00d554)
 
 Setup supporting web page [link](https://tek2tech.com/ubuntu-2004-desktop-environment/)
 
